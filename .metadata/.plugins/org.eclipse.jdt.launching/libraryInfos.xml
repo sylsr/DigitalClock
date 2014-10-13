@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\Tyler\Eclipse\eclipse\bin" version="1.8.0_20">
+<bootpath>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\resources.jar"/>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\rt.jar"/>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\sunrsasign.jar"/>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\jsse.jar"/>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\jce.jar"/>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\charsets.jar"/>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\jfr.jar"/>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\Tyler\Eclipse\eclipse\bin\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
